@@ -50,3 +50,25 @@ Clearance is 0.2mm for all parts to facilitate assembly. No support is needed.
 
 ## RTC battery
 Dedicated space for a CR2020 battery above Ethernet port.
+
+## Related projects
+
+* #### Raspberry PI 3B+ Case version is available here:
+    > https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure
+
+    <p align="left">
+        <img alt="Screen BAck" src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/render_sd_hdmi.jpg?raw=true" width="30%">
+    &nbsp;
+        <img alt="Screen BAck" src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/render_hdmi_usb.jpg?raw=true" width="30%">
+    </p>
+
+---
+
+* #### Raspberry PI 4B Case version is available here:
+    > https://github.com/AntoninPvr/RPI4B_Case
+
+    <p align="left">
+        <img alt="Screen BAck" src="https://github.com/AntoninPvr/RPI4B_Case/blob/main/img/render_sd_hdmi.jpg?raw=true" width="30%">
+    &nbsp;
+        <img alt="Screen BAck" src="https://github.com/AntoninPvr/RPI4B_Case/blob/main/img/render_hdmi_usb.jpg?raw=true" width="30%">
+    </p>
